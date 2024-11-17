@@ -7,7 +7,7 @@ const Footer = () => {
             <footer>
                 <div className="container grid3">
                     <div className="box">
-                        <h1>Arujjwal Negi</h1>
+                        <h1>Tanuja Karki</h1>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque, quia eius est sunt consectetur rem possimus officia minima reiciendis perspiciatis! Soluta corrupti nesciunt suscipit repellendus adipisci reiciendis veritatis, accusantium saepe?</p>
                         <div className="icon-footer d_flex">
                             <div className='img d_flex'>
